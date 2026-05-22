@@ -1,0 +1,11 @@
+id="sunny-leo"
+name="SUNNY LEO"
+version="0.0.1"
+schema_version=1
+authors=["Kacean <myant91@126.com>"]
+description="leo-language extension"
+repository="https://github.com/HirongVSuen/sunny-leo"
+
+[grammars.leo]
+repository="https://github.com/HirongVSuen/leo"
+rev="68e611c360dd5b49686e60e567c398de8916b33e"
