@@ -1,0 +1,3 @@
+[submodule "grammars/leo"]
+	path = grammars/leo
+	url = https://github.com/HirongVSuen/leo
